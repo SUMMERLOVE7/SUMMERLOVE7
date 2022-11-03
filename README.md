@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # :star: This is Min Ji   
-:computer: majoring in Computer Science and Computer Engineering
-   
-:bulb:Fun Fact!   
+- :computer: I'm majoring in Computer Science and Computer Engineering   
+- :cherry_blossom: I'm currently working on a project to make handwriting fonts.   
+- :bulb:Fun Fact! : I really love traveling overseas. Traveled more than 10 countries.
