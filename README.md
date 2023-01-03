@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # :star: This is Min Ji   
 - :computer: I'm majoring in Computer Science and Computer Engineering   
-- :cherry_blossom: I'm currently working on a project to make handwriting fonts.   
+- :cherry_blossom: I'm currently doing Hyundai Softeer Bootcamp.   
 - :bulb:Fun Fact! : I really love traveling overseas. Traveled more than 10 countries.
